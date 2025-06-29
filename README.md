@@ -1,39 +1,39 @@
-# 🌍 Wanderlust
+# Wanderlust
 
 Wanderlust is a full-stack Airbnb-like web application where users can post rental listings, explore places to stay, leave reviews, and manage listings—all with integrated maps, authentication, and a beautiful UI built using Bootstrap and Leaflet.
 
 ---
 
-## 🔗 Website Link
+## Website Link
 
 [Visit Wanderlust](https://wanderlust-i3h9.onrender.com/)  
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-- ![Homepage](assets/homepage.png)
-- ![Listing Page](assets/listing-page.png)
-- ![Map Integration](assets/map.png)
-- ![Reviews](assets/reviews.png)
-
----
-
-## 🚀 Features
-
-- 🏠 CRUD operations for listings
-- 🔍 Location-based search (title, description, location, country)
-- 🗺️ Leaflet map integration for each listing
-- ⭐ User reviews with star ratings
-- 🧾 User authentication (Login/Signup)
-- 👤 Only owners can edit/delete their listings
-- ☁️ Image upload with Cloudinary
-- 📱 Fully responsive (Bootstrap 5)
-- 🧩 MVC architecture followed
+ ![Homepage](assets/homepage.png)
+ ![Listing Page](assets/listing-page.png)
+ ![Map Integration](assets/map.png)
+ ![Reviews](assets/reviews.png)
 
 ---
 
-## 🏗️ Tech Stack
+## Features
+
+- CRUD operations for listings
+- Location-based search (title, description, location, country)
+- Leaflet map integration for each listing
+- User reviews with star ratings
+- User authentication (Login/Signup)
+- Only owners can edit/delete their listings
+- Image upload with Cloudinary
+- Fully responsive (Bootstrap 5)
+- MVC architecture followed
+
+---
+
+## Tech Stack
 
 - **Backend**: Node.js, Express.js
 - **Frontend**: EJS Templating, Bootstrap 5
@@ -45,7 +45,7 @@ Wanderlust is a full-stack Airbnb-like web application where users can post rent
 
 ---
 
- ## 📁 Project Structure
+ ## Project Structure
 
 - `app.js` – Main application entry point
 - `cloudConfig.js` – Cloudinary configuration
@@ -73,6 +73,6 @@ Wanderlust is a full-stack Airbnb-like web application where users can post rent
 
 ---
 
-## 🌐 Deployment (Render)
+## Deployment (Render)
 
 Wanderlust is deployed on [Render](https://render.com)
